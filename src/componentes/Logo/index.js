@@ -14,7 +14,7 @@ function Logo() {
     <LogoContainer>
       <LogoImage src={logo} alt="logo da pagina" />
       <p>
-        <strong>Alura</strong>Books
+        Books
       </p>
     </LogoContainer>
   );
